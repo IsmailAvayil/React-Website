@@ -1,0 +1,55 @@
+[
+  {
+    
+    "NAME":"harshad",
+    "EMAIL":"harsh@gmail.com",
+    "PHONE":"9895818713",
+    "BOOKING":"------"
+
+
+  },
+    
+  {
+    "NAME":"fahad",
+    "EMAIL":"dahad@gmail.com",
+    "PHONE":"835818713",
+    "BOOKING":"------"
+  },
+  {
+    "NAME":"sameer",
+    "EMAIL":"sam@gmail.com",
+    "PHONE":"7895818713",
+    "BOOKING":"------"
+  },
+  {
+    "NAME":"rizwan",
+    "EMAIL":"riz@gmail.com",
+    "PHONE":"4895818713",
+    "BOOKING":"---------"
+  },
+  {
+    "NAME":"virat",
+    "EMAIL":"virat@gmail.com",
+    "PHONE":"9894818713",
+    "BOOKING":"------"
+  },
+  {
+    "NAME":"babar",
+    "EMAIL":"babr@gmail.com",
+    "PHONE":"8895818713",
+    "BOOKING":"------"
+  },
+  {
+    "NAME":"tamim",
+    "EMAIL":"tamim@gmail.com",
+    "PHONE":"9845819713",
+    "BOOKING":"------"
+  },
+  {
+    "NAME":"rahu",
+    "EMAIL":"eahu@gmail.com",
+    "PHONE":"9895818715",
+    "BOOKING":"------"
+  }
+  
+]

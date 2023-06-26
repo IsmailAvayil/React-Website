@@ -1,0 +1,14 @@
+[
+  {
+    "locker_id":"A",
+    "locker_1":"1",
+    "locker_2":"2",
+    "locker_3":"3"
+  },
+  {
+    "locker_id":"1",
+    "locker_1":"A",
+    "locker_2":"B",
+    "locker_3":"C"
+  }
+]
