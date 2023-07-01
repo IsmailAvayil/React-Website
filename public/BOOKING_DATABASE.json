@@ -1,0 +1,107 @@
+[
+  {
+    "ID_NUMBER":"1",
+    "BOOKING_DATE":"06-12-2020",
+    "CUSTOMER_NAME":"ismail",
+    "LOCKER":"Locker 1",
+    "CABINET":"Cabinet 1",
+    "STATUS" :"Booking Placed"
+
+  },
+    
+  {
+  
+    "ID_NUMBER":"2",
+    "BOOKING_DATE":"05-12-2020",
+    "CUSTOMER_NAME":"samad",
+    "LOCKER":"Locker 2",
+    "CABINET":"Cabinet 1",
+    "STATUS" :"Check-In"
+
+
+  },
+  {
+    
+    "ID_NUMBER":"3",
+    "BOOKING_DATE":"07-11-2020",
+    "CUSTOMER_NAME":"aslam",
+    "LOCKER":"Locker 3",
+    "CABINET":"Cabinet 2",
+    "STATUS" :"Fetched"
+
+
+  },
+  {
+    
+    "ID_NUMBER":"4",
+    "BOOKING_DATE":"28-02-2020",
+    "CUSTOMER_NAME":"Harsha",
+    "LOCKER":"Locker 4",
+    "CABINET":"Cabinet 2",
+    "STATUS" :"Inspected"
+
+  },
+  {
+  
+    "ID_NUMBER":"5",
+    "BOOKING_DATE":"22-12-2020",
+    "CUSTOMER_NAME":"Dravid",
+    "LOCKER":"Locker 5",
+    "CABINET":"Cabinet 1",
+    "STATUS" :"Booking Placed"
+
+  },
+  {
+  
+    "ID_NUMBER":"6",
+    "BOOKING_DATE":"02-09-2021",
+    "CUSTOMER_NAME":"basith",
+    "LOCKER":"Locker 6",
+    "CABINET":"Cabinet 1",
+    "STATUS" :"Inspected"
+
+
+  },
+  {
+    
+    "ID_NUMBER":"8",
+    "BOOKING_DATE":"06-07-2021",
+    "CUSTOMER_NAME":"fahma",
+    "LOCKER":"Locker 1",
+    "CABINET":"Cabinet 2",
+    "STATUS" :"Fetched"
+
+
+  },
+  {
+    
+    "ID_NUMBER":"7",
+    "BOOKING_DATE":"01-08-2021",
+    "CUSTOMER_NAME":"razi",
+    "LOCKER":"Locker 2",
+    "CABINET":"Cabinet 1",
+    "STATUS" :"Booking Placed"
+
+
+  },
+  {
+    
+    "ID_NUMBER":"9",
+    "BOOKING_DATE":"14-10-2020",
+    "CUSTOMER_NAME":"sreesh",
+    "LOCKER":"Locker 1",
+    "CABINET":"Cabinet 1",
+    "STATUS" :"Fetched"
+
+  },
+  {
+    
+    "ID_NUMBER":"10",
+    "BOOKING_DATE":"08-03-2021",
+    "CUSTOMER_NAME":"Choudhary",
+    "LOCKER":"Locker 5",
+    "CABINET":"Cabinet 1",
+    "STATUS" :"Booking Placed"
+
+  }
+]

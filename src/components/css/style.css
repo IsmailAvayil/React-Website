@@ -1,0 +1,179 @@
+body{
+  box-sizing: 0px;
+  
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+}
+
+ul li{
+  padding: 0px 0px 0px 5px;
+}
+
+.header{
+  background:#430e80;
+  color:#ffffff;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  height: 60px;
+  margin-bottom: 0px;
+  
+}
+ul li a{
+  color:#ffffff;
+}
+li i{
+  color: orange;
+}
+.logo{
+  padding: 0px 0px 0px 40px ;
+}
+
+
+.right-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top:50;
+}
+
+.ui.vertical.menu {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+
+.ui.secondary.menu .item:before{
+  background-color:#c6cef7 ;
+}
+
+
+
+.sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  
+}
+
+.sidebar a {
+  padding: 6px 0px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+
+
+
+
+.logo img {
+  height: 34px;
+  width: 100px;
+}
+
+
+#item:hover{
+  background-color: #b5cde8;   
+}
+
+
+#booking-count{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#circle-div {
+  border-radius: 50%;
+  background-color: #edf2f7;
+  height:100px;
+  width: 100px;
+  border:1px solid #03dbfc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color:#03dbfc;
+}
+
+
+
+
+
+#main-body{
+  background-color: #edf2f7;
+  height: 100vh;
+  width: 100wh;
+  display: flex;
+  
+}
+
+.sidebar-section{
+  width:15%;
+}
+
+.contents-section{
+  width:85%;
+}
+.table-design{
+ 
+  margin-left:15px;
+  margin-top:10px;
+  overflow-y:auto;
+  height:450px;
+  background-color:lightblue;
+}
+
+#table-design{
+  width: 900px;;
+  
+}
+
+.count-section{
+  width:45%;
+  margin-left:15px
+}
+
+#bookingForm{
+  padding:10px;
+  background-color:#ffffff;
+  margin:15px 15px 0px 5px ;
+}
+
+
+.ui.card{
+  width: 480px;
+}
+
+span{
+  color:red;
+}
+
+
